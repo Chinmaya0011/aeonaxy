@@ -1,0 +1,22 @@
+import React from 'react';
+import photo from '../../public/background.jpg';
+
+const SimpleAndIntuitive = () => {
+  return (
+    <div className="flex flex-col justify-center items-center md:flex-row md:justify-between md:px-10 md:py-5 mt-10 mb-10 h-80vh">
+     
+      <div className="md:w-1/2 md:ml-5 ">
+        <div className="md:w-3/4 mx-auto ">
+        <p className="text-xl font-semibold text-blue-500 mb-3">SIMPLE AND INTUITIVE</p>
+        <h2 className="text-4xl mb-5 font-bold text-gray-900 ">Build and piblish a form in minutes</h2>
+        <p className="text-lg text-gray-700">Quickly get started with a straightforward form-building experiance, which Calendly admins create and mange for teams.Share via link or embed on your website.</p>
+      </div>
+      </div> 
+      <div className="md:w-1/2 md:mr-5">
+        <img src={photo} alt="" className="w-full rounded-lg" />
+      </div>
+    </div>
+  );
+};
+
+export default SimpleAndIntuitive;
