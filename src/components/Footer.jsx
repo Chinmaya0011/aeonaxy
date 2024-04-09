@@ -6,7 +6,7 @@ import { faTwitter, faFacebook, faInstagram, faLinkedin, faYoutube } from '@fort
 const Footer = () => {
   return (
 
-<div className='flex justify-between h-auto p-8 w-full flex-col lg:flex-row ' >
+<div className='flex justify-between h-auto p-8 w-full flex-col lg:flex-row m-2' >
 
 <div className='section1'>
             <div className='w-3/4 '>
