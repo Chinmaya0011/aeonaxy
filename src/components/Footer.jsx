@@ -37,7 +37,7 @@ const Footer = () => {
         <span className="text-xs">App Store</span>
     </div>
   </button>
-  <button className="flex items-center bg-green-500 text-white px-2 py-1 rounded bg-black">
+  <button className="flex items-center bg-green-500 text-white px-2 py-1 rounded">
     <FontAwesomeIcon icon={faAndroid} size="lg" className="mr-1" />
     <div className='flex flex-col'>
       <h1 className="text-sm font-bold">Get it on</h1>
