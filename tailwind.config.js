@@ -63,12 +63,17 @@ module.exports = {
         '1/2': '50%',
         '3/4': '75%',
         '80vh': '80vh', // custom value for 80% of the viewport height
-        '100vh':'100vh'
+        '100vh':'100vh',
+        '70vh':'70vh',
+        '40vh':'40vh',
+        '50vh':'50vh',
+        '200px':'200px'
       },
       width: {
         '1/2': '50%',
         '3/4': '75%',
-        '90%': '90%', // custom value for 90% width
+        '90%': '90%',
+        '200px':'200px'
       },
     }
   },

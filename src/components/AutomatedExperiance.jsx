@@ -1,9 +1,9 @@
 import React from 'react';
-import photo from '../../public/background.jpg';
+import photo from '../../public/schedule.png';
 
 const AutomatedExperience = () => {
   return (
-    <div className="flex flex-col justify-center items-center md:flex-row md:justify-between md:px-10 md:py-5 mt-10 mb-10 h-80vh">
+    <div className="flex flex-col justify-center items-center md:flex-row md:justify-between md:px-10 md:py-5 m-4 mb-4 h-80vh">
       <div className="md:w-1/2 md:mr-5">
         <img src={photo} alt="" className="w-full rounded-lg" />
       </div>

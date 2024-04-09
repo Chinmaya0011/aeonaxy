@@ -8,6 +8,8 @@ import AutomatedExperience from './components/AutomatedExperiance'
 import SimpleAndIntuitive from './components/SimpleAndIntuitive'
 import FasterConnection from './components/FasterConnections'
 import Testimonial from './components/Testimonial'
+import MoreBusiness from './components/MoreBusiness'
+import Footer from './components/Footer'
 function App() {
 
   return (
@@ -21,6 +23,8 @@ function App() {
    <SimpleAndIntuitive/>
    <FasterConnection/>
    <Testimonial/>
+   <MoreBusiness/>
+   <Footer/>
   </>)
 }
 

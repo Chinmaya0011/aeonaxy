@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-<div class="mx-auto mb-4  max-w-screen-sm justify-center items-center  text-center mt-20 font-bold m-4 p-4">
+<div class="mx-auto mb-4  max-w-screen-sm justify-center items-center  text-center mt-10 font-bold m-4 p-4">
 
 <p class="text-blue-400">ROUTING FROMS</p>
 <h1 class="text-4xl font-bold mt-5 mb-8 ">Make higher quality connections</h1>
