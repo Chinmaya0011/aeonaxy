@@ -20,7 +20,7 @@ const Footer = () => {
           </select>
         </div>
 
-        <div>
+        {/* <div>
           <div className="flex items-center w-3/4 h-full mb-8">
             <button className="flex items-center bg-blue-500 text-white px-2 py-1 rounded mr-2">
               <FontAwesomeIcon icon={faApple} size="lg" className="mr-1" />
@@ -55,7 +55,7 @@ const Footer = () => {
               <FontAwesomeIcon icon={faYoutube} className="text-red-500 text-2xl" />
             </div>
           </div>
-        </div>
+        </div> */}
         
       </div>
 
